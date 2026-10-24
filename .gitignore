@@ -1,0 +1,20 @@
+
+# Altium automatic history/backups
+History/
+__Previews/
+
+# Generated logs and temporary outputs
+Project Logs for */
+Project Outputs for */
+
+# Altium temporary/lock files
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+*.REP
+*.LOG
+*.ERR
+
+# Windows
+Thumbs.db
+Desktop.ini
